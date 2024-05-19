@@ -103,10 +103,10 @@ Based on the visualizations and dashboards created in Excel, Tableau and PowerBI
 ## Screenshots
 
 ## Excel Dashboard:
-![My_Excel_Dashboard](Project_Olist_Store_Excel_Dashboard)
+![My_Excel_Dashboard](images/Excel_Dashboard_Olist_Store.png)
 
 ## PowerBI Dashboard:
-![PowerBI_Dashboard](https://github.com/clivedandrews/Data_Analytics/assets/106470609/31af5f76-b0e1-49ce-8f86-5303e3eacfab)
+![PowerBI_Dashboard](images/PowerBI_Dashboard_Olist_Store.png)
 
 ## Tableau Dashboard:
-![Tableau_Dashboard](https://github.com/clivedandrews/Data_Analytics/assets/106470609/6f3024a6-bf68-41df-80e5-71e6b7c49a7f)
+![Tableau_Dashboard](images/Tableau_Dashboard_Olist_Store.png)
