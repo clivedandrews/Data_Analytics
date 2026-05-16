@@ -80,7 +80,7 @@ Based on the visualizations and dashboards created in Excel, Tableau and PowerBI
 ![PowerBI_Dashboard](images/Flight-Delay-Project_PowerBI_Dashboard.png)
 
 ## Tableau Dashboard:
-![Tableau_Dashboard_KPI_1](images/Flight-Delay-Project_Tableau_KPI-1_Dashboard)
-![Tableau_Dashboard_KPI_2](images/Flight-Delay-Project_Tableau_KPI-2_Dashboard)
-![Tableau_Dashboard_KPI_3](images/Flight-Delay-Project_Tableau_KPI-3_Dashboard)
-![Tableau_Dashboard_KPI_4](images/Flight-Delay-Project_Tableau_KPI-4_Dashboard)
+![Tableau_Dashboard_KPI_1](images/Flight-Delay-Project_Tableau_KPI-1_Dashboard.png)
+![Tableau_Dashboard_KPI_2](images/Flight-Delay-Project_Tableau_KPI-2_Dashboard.png)
+![Tableau_Dashboard_KPI_3](images/Flight-Delay-Project_Tableau_KPI-3_Dashboard.png)
+![Tableau_Dashboard_KPI_4](images/Flight-Delay-Project_Tableau_KPI-4_Dashboard.png)
