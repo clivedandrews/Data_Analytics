@@ -1,5 +1,5 @@
 
-# Banking Project - Bank Loan Analytics
+# Aviation Project - Analysis of Flight Delays
 
 The Objective of this project is to gain insight into the reasons for flight delays and associated vectors to help and improve the
 overall performance.
@@ -74,10 +74,13 @@ Based on the visualizations and dashboards created in Excel, Tableau and PowerBI
 ## Screenshots
 
 ## Excel Dashboard:
-![My_Excel_Dashboard](images/Excel_Project_Banking.png)
+![My_Excel_Dashboard](images/Flight-Delay-Project_Excel_Dashboard.png)
 
 ## PowerBI Dashboard:
-![PowerBI_Dashboard](images/PowerBI_Project_Banking.png)
+![PowerBI_Dashboard](images/Flight-Delay-Project_PowerBI_Dashboard.png)
 
 ## Tableau Dashboard:
-![Tableau_Dashboard](images/Tableau_Project_Banking.png)
+![Tableau_Dashboard_KPI_1](images/Flight-Delay-Project_Tableau_KPI-1_Dashboard)
+![Tableau_Dashboard_KPI_2](images/Flight-Delay-Project_Tableau_KPI-2_Dashboard)
+![Tableau_Dashboard_KPI_3](images/Flight-Delay-Project_Tableau_KPI-3_Dashboard)
+![Tableau_Dashboard_KPI_4](images/Flight-Delay-Project_Tableau_KPI-4_Dashboard)
